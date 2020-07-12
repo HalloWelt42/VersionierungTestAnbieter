@@ -1,2 +1,5 @@
 Das ist die Erste Version.
 Das ist die Zweite Version.
+2. Version ist fehlgeschlagen, da git push --tags explizid für GitHub übergeben werden muss,
+sonst landen die Tags nicht im Reposetory von GitHub.
+3. Versuch
